@@ -1,0 +1,23 @@
+# Dependências do Sistema de Urna Eletrônica
+# Python 3.8+
+
+# Interface Gráfica
+tkinter>=8.6
+
+# Processamento de Imagens
+Pillow>=8.0.0
+
+# Sistema de Som
+pygame>=2.0.0
+
+# Banco de Dados (incluído no Python)
+# sqlite3
+
+# Testes (opcional)
+pytest>=6.0.0
+pytest-cov>=2.10.0
+
+# Desenvolvimento (opcional)
+black>=21.0.0
+flake8>=3.8.0
+mypy>=0.800
